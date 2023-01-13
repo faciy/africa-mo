@@ -1,0 +1,1891 @@
+[
+  {
+    "bien": {
+      "id": 1,
+      "matricule": null,
+      "description": "Cet appartement vous offre une vue imprenable sur Abidjan. Agréable et facile d’accès à proximité des restaurants Kayser, Tsunami et bien d’autres centres commerciaux, et à 5 min de l’aéroport international d'Abidjan.\r\n            Profitez de ce bel appartement, soigné et décoré avec goût, vous y serez à votre aise! Calme et détente seront au rendez-vous durant votre séjour !",
+      "localisation": "Marcory Zone 4",
+      "situation": "Appartement Calmette de standing d’une superficie de 60m2 dans un immeuble sécurisé H24, avec mise à disposition  d’ascenseur, de parking, et d’espace fumeur extérieur. L’appartement est situé au 8ème étage de  Immeuble Gudis sis en zone 4, quartier prisé à Abidjan.",
+      "equipement": "Votre appart Calmette comprend un coin cuisine aménagé et équipé avec tout l’électroménager (réfrigérateur, micro-ondes, et d’une gazinière), la vaisselle, un téléviseur avec un bouquet canal +, une connexion internet illimitée, d’une buanderie équipée de machine à laver, un coin nuit avec un lit, un placard ainsi que la vaisselle et le linge de maison.",
+      "condition": " La nuitée est à 45.000 FCFA toutes charges comprises, avec possibilité de location longue durée au mois ou à l’année (nous consulter pour le prix).",
+      "charge_incluse": "Electricité, Eau, Lavage des draps et serviettes, Ménage 2 fois par semaine",
+      "libelle": "Appartement Calmette",
+      "image": "images/7e090b31-a3e0-4e79-bb96-39dfbb318b0c (1).JPG",
+      "prix": 45000,
+      "typebien_id": 2,
+      "nombre_piece": 6,
+      "user_id": 1,
+      "status": 1,
+      "valid": 1,
+      "created_at": "2022-10-17T11:50:29.000000Z",
+      "updated_at": "2022-10-17T11:50:29.000000Z"
+    },
+    "images": [
+      {
+        "id": 1,
+        "src": "images/7e090b31-a3e0-4e79-bb96-39dfbb318b0c (1).JPG",
+        "bien_id": 1,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 2,
+        "src": "images/7e090b31-a3e0-4e79-bb96-39dfbb318b0c.jpg",
+        "bien_id": 1,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 3,
+        "src": "images/ed59c2b4-6e9b-40ba-af82-77cfbfd12021.jpg",
+        "bien_id": 1,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 4,
+        "src": "images/image0 (1).jpeg",
+        "bien_id": 1,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 5,
+        "src": "images/image0 (2).jpeg",
+        "bien_id": 1,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 6,
+        "src": "images/image0.jpeg",
+        "bien_id": 1,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 7,
+        "src": "images/image3 (1).jpeg",
+        "bien_id": 1,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 8,
+        "src": "images/image5.jpeg",
+        "bien_id": 1,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 9,
+        "src": "images/image7 (1).jpeg",
+        "bien_id": 1,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      }
+    ]
+  },
+  {
+    "bien": {
+      "id": 2,
+      "matricule": null,
+      "description": "Agréable et facile d’accès, à proximité du restaurant Banian, et bien d’autres centres commerciaux, et à 5 min de l’aéroport international d’Abidjan.\r\n        Profitez de ce bel appartement soigné et décoré avec goût, vous y serez à votre aise ! calme et détente seront au rendez – vous durant votre séjour ! \r\n        ",
+      "localisation": "Bietry",
+      "situation": "Appartement Banian II  de standing d’une superficie de 60 m2 dans un immeuble à 10 étages, sécurisé H24, avec mise à disposition d’ascenseur, de parking, et d’espace fumeur extérieur. L’appartement est situé au 1er étage de la résidence SAAY sis à Bietry, près de la Paroisse Notre Dame d’Afrique  de Biétry.",
+      "equipement": "votre appartement Banian II  comprend un coin cuisine aménagé et équipé  avec l’électroménager (réfrigérateur, micro – ondes, bouilloire électrique  et d’une gazinière), la vaisselle, un téléviseur,  avec un bouquet canal, une connexion internet illimitée, un coin  nuit avec un lit, un placard, une buanderie équipée de machine à laver, fer à repasser et une table à repasse ainsi que le linge de maison. Une piscine est ouverte aux résidents ",
+      "condition": "la nuitée est à 45 000 F CFA toutes charges comprises, avec possibilité de location  longue durée  au mois ou à l’année (nous consulter pour le prix).",
+      "charge_incluse": "Electricité, Eau, Lavage des draps et serviettes, Ménage 2 fois par semaine",
+      "libelle": "Appartement Banian II",
+      "image": "images/3bd8ec70a895d5a3f82e817c9b3bedf0-large.jpg",
+      "prix": 45000,
+      "typebien_id": 2,
+      "nombre_piece": 6,
+      "user_id": 1,
+      "status": 1,
+      "valid": 1,
+      "created_at": "2022-10-17T11:50:29.000000Z",
+      "updated_at": "2022-10-17T11:50:29.000000Z"
+    },
+    "images": [
+      {
+        "id": 10,
+        "src": "images/3bd8ec70a895d5a3f82e817c9b3bedf0-large.jpg",
+        "bien_id": 2,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 11,
+        "src": "images/5cd9c3b0d9c588467b707919bc490dc4-large.jpg",
+        "bien_id": 2,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 12,
+        "src": "images/7I8A1061.jpg",
+        "bien_id": 2,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 13,
+        "src": "images/7I8A1062.jpg",
+        "bien_id": 2,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 14,
+        "src": "images/7I8A1063.jpg",
+        "bien_id": 2,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 15,
+        "src": "images/7I8A1065.jpg",
+        "bien_id": 2,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 16,
+        "src": "images/7I8A1066.jpg",
+        "bien_id": 2,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 17,
+        "src": "images/7I8A1068.jpg",
+        "bien_id": 2,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 18,
+        "src": "images/7I8A1069.jpg",
+        "bien_id": 2,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      }
+    ]
+  },
+  {
+    "bien": {
+      "id": 3,
+      "matricule": null,
+      "description": "Cet appartement est à proximité de la zone aéroportuaire. Agréable et facile d’accès à proximité des restaurants Oregano, Petit café, Dabali Xpress, la pharmacie Perusia et bien d’autres centres commerciaux, et à 5 min de l’aéroport international  d’Abidjan.\r\n        Profitez de ce bel appartement Charme, soigné et  décoré avec goût, vous y serez à votre aise ! Calme et détente y seront au rendez-vous durant votre séjour !",
+      "localisation": "Marcory Zone 4",
+      "situation": "Appartement Charme de standing d’une superficie de 120 m2 dans une résidence sécurisé H24, avec mise à disposition d’ascenseur, de parking, et d’espace fumeur extérieur. L’appartement Charme  est situé au rez-de-chaussée  de la résidence COMTE VERT sis en zone 4, quartier prisé à Abidjan.",
+      "equipement": "votre appartement Charme  comprend un coin cuisine aménagé et équipé  avec l’électroménager (réfrigérateur, micro – ondes, bouilloire électrique  et d’une gazinière),  une buanderie  (équipée de machine à laver, de fer et planche à repasser), La vaisselle, un téléviseur,  avec un bouquet canal, une connexion internet illimitée, un coin  nuit avec un lit, un placard ainsi que le linge de maison ",
+      "condition": "la nuitée est à 55 000 F CFA toutes charges comprises, avec possibilité de location  longue durée  au mois ou à l’année (nous consulter pour le prix)",
+      "charge_incluse": "Electricité, Eau, Lavage des draps et serviettes, Ménage 2 fois par semaine",
+      "libelle": "Appartement Charme",
+      "image": "images/1a2d621640d46810c096ec8c7d9134f0-large.jpg",
+      "prix": 55000,
+      "typebien_id": 2,
+      "nombre_piece": 6,
+      "user_id": 1,
+      "status": 1,
+      "valid": 1,
+      "created_at": "2022-10-17T11:50:29.000000Z",
+      "updated_at": "2022-10-17T11:50:29.000000Z"
+    },
+    "images": [
+      {
+        "id": 19,
+        "src": "images/1a2d621640d46810c096ec8c7d9134f0-large.jpg",
+        "bien_id": 3,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 20,
+        "src": "images/02d0a281a32ddc7c989a618284f62af3-large.jpg",
+        "bien_id": 3,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 21,
+        "src": "images/2d7947723ff6d5404ce431fcf43549b8-large.jpg",
+        "bien_id": 3,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 22,
+        "src": "images/3c656387454fb19c1d5c7290c4583b1b-large.jpg",
+        "bien_id": 3,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 23,
+        "src": "images/3dcdb8c5242fee437344c144292870fb-large-Copie.jpg",
+        "bien_id": 3,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 24,
+        "src": "images/04a4a737606b609424f23fb619b63199-large.jpg",
+        "bien_id": 3,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 25,
+        "src": "images/4abc48b45844b5de28f249c2287f049c-large.jpg",
+        "bien_id": 3,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 26,
+        "src": "images/4d314cf3b6b5d3471931a852b9dd6b3e-large.jpg",
+        "bien_id": 3,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 27,
+        "src": "images/7I8A0657.jpg",
+        "bien_id": 3,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      }
+    ]
+  },
+  {
+    "bien": {
+      "id": 4,
+      "matricule": null,
+      "description": "Cet appartement vous offre est à proximité de la zone aéroportuaire. Agréable et facile d’accès, des restaurants Amore et le petit café, et bien d’autres centres commerciaux, et à 5 min de l’aéroport international d'Abidjan.\r\n        Profitez de ce bel appartement, soigné et décoré avec goût, vous y serez à votre aise! Calme et détente seront au rendez-vous durant votre séjour !",
+      "localisation": "Marcory Zone 4",
+      "situation": "Appartement Corail I de standing d’une superficie de 60m2 dans un immeuble à 12 étages, sécurisé H24, avec mise à disposition  d’ascenseur, de parking, et d’espace fumeur extérieur. L’appartement est situé au 4ème étage de l’immeuble SACS II, près du petit café à Marcory Zone 4",
+      "equipement": " Votre appart Corail I comprend un coin cuisine aménagé et équipé avec tout l’électroménager (réfrigérateur, micro-ondes, et d’une gazinière), la vaisselle, un téléviseur avec un bouquet canal +, une connexion internet illimitée, un coin nuit avec un lit, un placard ainsi que la vaisselle et le linge de maison. Une piscine ouverte aux résidents.",
+      "condition": "La nuitée est à 45.000 FCFA toutes charges comprises, avec possibilité de location longue durée au mois ou à l’année (nous consulter pour le prix).",
+      "charge_incluse": "Electricité, Eau, Lavage des draps et serviettes, Ménage 2 fois par semaine",
+      "libelle": "Appartement Corail I",
+      "image": "images/7I8A2744.jpg",
+      "prix": 45000,
+      "typebien_id": 2,
+      "nombre_piece": 6,
+      "user_id": 1,
+      "status": 1,
+      "valid": 1,
+      "created_at": "2022-10-17T11:50:29.000000Z",
+      "updated_at": "2022-10-17T11:50:29.000000Z"
+    },
+    "images": [
+      {
+        "id": 28,
+        "src": "images/7I8A2744.jpg",
+        "bien_id": 4,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 29,
+        "src": "images/7I8A2752.jpg",
+        "bien_id": 4,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 30,
+        "src": "images/7I8A2754.jpg",
+        "bien_id": 4,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 31,
+        "src": "images/7I8A2756.jpg",
+        "bien_id": 4,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 32,
+        "src": "images/7I8A2760.jpg",
+        "bien_id": 4,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 33,
+        "src": "images/7I8A2762.jpg",
+        "bien_id": 4,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 34,
+        "src": "images/7I8A2780.jpg",
+        "bien_id": 4,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 35,
+        "src": "images/7I8A2803.jpg",
+        "bien_id": 4,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 36,
+        "src": "images/7I8A2871.jpg",
+        "bien_id": 4,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      }
+    ]
+  },
+  {
+    "bien": {
+      "id": 5,
+      "matricule": null,
+      "description": "Cet appartement est à proximité de la zone aéroportuaire, Agréable et facile d’accès, non loin de la Police Judiciaire, de la Maison des entreprises du plateau, du stade Félicia, et bien d’autres centres commerciaux.\r\n        Profitez de ce bel appartement soigné et décoré avec goût, vous y serez à votre aise ! calme et détente seront au rendez – vous durant votre séjour !",
+      "localisation": "Plateau",
+      "situation": "Appartement Cristal de standing d’une superficie de 60 m2 dans un immeuble à 5 étages, sécurisé H24, avec mise à disposition d’ascenseur, de parking, et d’espace fumeur extérieur. L’appartement est situé au 3ème étage de la résidence des Harmonies, en face de la Maison des Parlementaires en plein cœur du plateau.",
+      "equipement": "votre appartement Cristal comprend un coin cuisine aménagé et équipé  avec tout l’électroménager (réfrigérateur, micro – ondes, bouilloire électrique  et d’une gazinière), la vaisselle, un téléviseur,  avec un bouquet canal, une connexion internet illimitée, un coin  nuit avec un lit, un placard, une buanderie équipée de machine à laver, fer à repasser et une table à repasser ainsi que le linge de maison. Une piscine ouverte aux résidents",
+      "condition": "la nuitée est à 45 000 F CFA toutes charges comprises, avec possibilité de location  longue durée  au mois ou à l’année (nous consulter pour le prix).",
+      "charge_incluse": "Electricité, Eau, Lavage des draps et serviettes, Ménage 2 fois par semaine",
+      "libelle": "Appartement Cristal",
+      "image": "images/00ece808b3a98b0078dc0e588943cd67-large.jpg",
+      "prix": 45000,
+      "typebien_id": 2,
+      "nombre_piece": 6,
+      "user_id": 1,
+      "status": 1,
+      "valid": 1,
+      "created_at": "2022-10-17T11:50:29.000000Z",
+      "updated_at": "2022-10-17T11:50:29.000000Z"
+    },
+    "images": [
+      {
+        "id": 37,
+        "src": "images/00ece808b3a98b0078dc0e588943cd67-large.jpg",
+        "bien_id": 5,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 38,
+        "src": "images/0c74130feb62464b9176fc1951c0ffae-large.jpg",
+        "bien_id": 5,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 39,
+        "src": "images/1b42ecae74f2d54db2cd4db6d2f94e06-large.jpg",
+        "bien_id": 5,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 40,
+        "src": "images/1ebc03578d26cc261304bc8555c4d4a5-large.jpg",
+        "bien_id": 5,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 41,
+        "src": "images/02cff23443fbfcce0c233010287dac36-large.jpg",
+        "bien_id": 5,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 42,
+        "src": "images/3b26f152fce1b23ded116af409716938-large.jpg",
+        "bien_id": 5,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 43,
+        "src": "images/3d5a583cd3c36b2932c454e5ff4f0e0b-large.jpg",
+        "bien_id": 5,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 44,
+        "src": "images/4fb3c4cef61b4fddfbe929325e973d9d-large.jpg",
+        "bien_id": 5,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 45,
+        "src": "images/5b8d90c3f86fb117bce6a74786f9c583-large.jpg",
+        "bien_id": 5,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      }
+    ]
+  },
+  {
+    "bien": {
+      "id": 6,
+      "matricule": null,
+      "description": "Cet appartement vous offre est à proximité de la zone aéroportuaire. Agréable et facile d’accès à proximité centres commerciaux SOCOCE, de la rue\tBanque.\r\n        Profitez de ce bel appartement, soigné et décoré avec goût, vous y serez à votre aise! Calme et détente seront au rendez-vous durant votre séjour !",
+      "localisation": "II Plateau",
+      "situation": "Appartement Las Palmas de standing d’une superficie de 120m2 dans un immeuble sécurisé H24, avec mise à disposition  d’ascenseur, de parking, et d’espace fumeur extérieur. L’appart Las Palmas est situé au 4ème étage d’un immeuble à Cocody, II Plateaux à Abidjan. ",
+      "equipement": "Votre appart Las Palmas comprend un coin cuisine aménagé et équipé avec tout l’électroménager (réfrigérateur, micro-ondes, et d’une gazinière), la vaisselle, un téléviseur avec un bouquet canal +, une connexion internet illimitée, d’une buanderie équipée de machine à laver,  un coin nuit avec un lit, un placard ainsi que la vaisselle et le linge de maison. Une piscine ouverte aux résidents.",
+      "condition": "La nuitée est à 50.000 FCFA toutes charges comprises, avec possibilité de location longue durée au mois ou à l’année (nous consulter pour le prix).",
+      "charge_incluse": "Electricité, Eau, Lavage des draps et serviettes, Ménage 2 fois par semaine",
+      "libelle": "Appartement Las Palmas",
+      "image": "images/photo_2022-07-28_22-51-13 (2).jpg",
+      "prix": 50000,
+      "typebien_id": 2,
+      "nombre_piece": 6,
+      "user_id": 1,
+      "status": 1,
+      "valid": 1,
+      "created_at": "2022-10-17T11:50:29.000000Z",
+      "updated_at": "2022-10-17T11:50:29.000000Z"
+    },
+    "images": [
+      {
+        "id": 46,
+        "src": "images/photo_2022-07-28_22-51-13 (2).jpg",
+        "bien_id": 6,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 47,
+        "src": "images/photo_2022-07-28_22-51-13 (3).jpg",
+        "bien_id": 6,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 48,
+        "src": "images/photo_2022-07-28_22-51-13.jpg",
+        "bien_id": 6,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 49,
+        "src": "images/photo_2022-07-28_22-51-14 (2).jpg",
+        "bien_id": 6,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 50,
+        "src": "images/photo_2022-07-28_22-51-14 (3).jpg",
+        "bien_id": 6,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 51,
+        "src": "images/photo_2022-07-28_22-51-14 (4).jpg",
+        "bien_id": 6,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 52,
+        "src": "images/photo_2022-07-28_22-51-14 (5).jpg",
+        "bien_id": 6,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 53,
+        "src": "images/photo_2022-07-28_22-51-15 (4).jpg",
+        "bien_id": 6,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 54,
+        "src": "images/photo_2022-07-28_22-51-16.jpg",
+        "bien_id": 6,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      }
+    ]
+  },
+  {
+    "bien": {
+      "id": 7,
+      "matricule": null,
+      "description": "Cet appartement vous offre une vue imprenable sur Abidjan. Agréable et facile d’accès à proximité des restaurants Oregano, Petit café, Dabali Xpress, La Pharmacie Perusia et bien d’autres centres commerciaux, et à 5 min de l’aéroport international  d’Abidjan. \r\n        Profitez de ce bel appartement Madiba Loft, soigné et  décoré avec goût, vous y serez à votre aise ! Calme et détente y seront au rendez-vous durant votre séjour !",
+      "localisation": "Marcory Zone 4",
+      "situation": "Appartement meublé de standing d’une superficie de 60 m2 dans un immeuble à 6 étages, sécurisé H24, avec mise à disposition d’ascenseur, de parking, et d’espace fumeur extérieur. L’appartement  Madiba Loft  est situé au 6ème étage de la Maison Gourmand, près d’Amore, en face du restaurant Oregano sis en zone 4, quartier prisé à Abidjan.",
+      "equipement": "Votre appartement Madiba Loft  comprend un coin cuisine aménagé et équipé  avec l’électroménager (réfrigérateur, micro – ondes, bouilloire électrique  et d’une gazinière),  une buanderie  (équipée de machine à laver, de fer et planche à repasser), La vaisselle, un téléviseur,  avec un bouquet canal, une connexion internet illimitée, un coin  nuit avec un lit, un placard ainsi que le linge de maison.",
+      "condition": "la nuitée est à 70 000 F CFA toutes charges comprises, avec possibilité de location  longue durée  au mois ou à l’année (nous consulter pour le prix).",
+      "charge_incluse": "Electricité, Eau, Lavage des draps et serviettes, Ménage 2 fois par semaine",
+      "libelle": "Appartement Madiba Loft",
+      "image": "images/0b310e5c60587bbf5e46453cfa121267-large-Copie.jpg",
+      "prix": 70000,
+      "typebien_id": 2,
+      "nombre_piece": 6,
+      "user_id": 1,
+      "status": 1,
+      "valid": 1,
+      "created_at": "2022-10-17T11:50:29.000000Z",
+      "updated_at": "2022-10-17T11:50:29.000000Z"
+    },
+    "images": [
+      {
+        "id": 55,
+        "src": "images/0b310e5c60587bbf5e46453cfa121267-large-Copie.jpg",
+        "bien_id": 7,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 56,
+        "src": "images/0cfc3c9219311b4c4234a662f5e8b831-large.jpg",
+        "bien_id": 7,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 57,
+        "src": "images/0f2b9bab6b8555d2e5bb7975eae67a20-large.jpg",
+        "bien_id": 7,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 58,
+        "src": "images/0f10cdd89df33b66604804e4ab92a885-large.jpg",
+        "bien_id": 7,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 59,
+        "src": "images/1fe5d278c1c26220e6872e1f62d26e0e-large.jpg",
+        "bien_id": 7,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 60,
+        "src": "images/2ee16f37d1dd257d7a26c285acb22a1d-large.jpg",
+        "bien_id": 7,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 61,
+        "src": "images/3dcef3f9c076ee1eb607e1b92adff447-large.jpg",
+        "bien_id": 7,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 62,
+        "src": "images/06a9670479a3cb608e960d9299a0ab8e-large.jpg",
+        "bien_id": 7,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      },
+      {
+        "id": 63,
+        "bien_id": 7,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:29.000000Z",
+        "updated_at": "2022-10-17T11:50:29.000000Z"
+      }
+    ]
+  },
+  {
+    "bien": {
+      "id": 8,
+      "matricule": null,
+      "description": "Cet appartement vous offre une vue imprenable sur Abidjan. Agréable et facile d’accès à proximité des restaurants Kayser, Tsunami et bien d’autres centres commerciaux, et à 5 min de l’aéroport international d'Abidjan.\r\n        Profitez de ce bel appartement, soigné et décoré avec goût, vous y serez à votre aise! Calme et détente seront au rendez-vous durant votre séjour !",
+      "localisation": "Marcory Zone 4",
+      "situation": "Appartement Sache de standing d’une superficie de 60m2 dans un immeuble sécurisé H24, avec mise à disposition  d’ascenseur, de parking, et d’espace fumeur extérieur. L’appartement est situé au 4ème étage de la résidence SACHE sis à Marcory, près de Cap Sud et Xina Mall.",
+      "equipement": "Votre appart Sache comprend un coin cuisine aménagé et équipé avec tout l’électroménager (réfrigérateur, micro-ondes, et d’une gazinière), la vaisselle, un téléviseur avec un bouquet canal +, une connexion internet illimitée, d’une buanderie équipée de machine à laver, un coin nuit avec un lit, un placard ainsi que la vaisselle et le linge de maison. Une piscine ouverte aux résidents.",
+      "condition": "La nuitée est à 45.000 FCFA toutes charges comprises, avec possibilité de location longue durée au mois ou à l’année (nous consulter pour le prix).",
+      "charge_incluse": "Electricité, Eau, Lavage des draps et serviettes, Ménage 2 fois par semaine",
+      "libelle": "Appartement Sache",
+      "image": "images/photo_2022-07-12_12-24-16.jpg",
+      "prix": 45000,
+      "typebien_id": 2,
+      "nombre_piece": 6,
+      "user_id": 1,
+      "status": 1,
+      "valid": 1,
+      "created_at": "2022-10-17T11:50:29.000000Z",
+      "updated_at": "2022-10-17T11:50:29.000000Z"
+    },
+    "images": [
+      {
+        "id": 64,
+        "src": "images/photo_2022-07-12_12-24-16.jpg",
+        "bien_id": 8,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 65,
+        "src": "images/photo_2022-07-12_12-24-17 (2).jpg",
+        "bien_id": 8,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 66,
+        "src": "images/photo_2022-07-12_12-24-17 (3).jpg",
+        "bien_id": 8,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 67,
+        "src": "images/photo_2022-07-12_12-24-17 (4).jpg",
+        "bien_id": 8,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 68,
+        "src": "images/photo_2022-07-12_12-24-17.jpg",
+        "bien_id": 8,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 69,
+        "src": "images/photo_2022-07-12_12-24-18 (2).jpg",
+        "bien_id": 8,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 70,
+        "src": "images/photo_2022-07-12_12-24-18 (3).jpg",
+        "bien_id": 8,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 71,
+        "src": "images/photo_2022-07-12_12-24-18 (4).jpg",
+        "bien_id": 8,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 72,
+        "src": "images/photo_2022-07-12_12-24-18 (5).jpg",
+        "bien_id": 8,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      }
+    ]
+  },
+  {
+    "bien": {
+      "id": 9,
+      "matricule": null,
+      "description": "Cet appartement vous offre une vue imprenable sur Abidjan.\r\n        Agréable et facile d’accès à proximité des restaurants Kayser, Tsunami et bien d’autres centres commerciaux, et à 5 min de l’aéroport international  d’Abidjan. \r\n        Profitez de ce beau studio Ebène I, soigné et  décoré avec goût, vous y serez à votre aise ! Calme et détente y seront au rendez-vous durant votre séjour !",
+      "localisation": "Marcory Zone 4",
+      "situation": "Studio meublé de standing d’une superficie de 30 m2 dans un immeuble à 10 étages, sécurisé H24, avec mise à disposition d’ascenseur, de parking, et d’espace fumeur extérieur. Le studio Ebène I est situé au 9ème étage de l’immeuble Devolluy  sis en zone 4, quartier prisé à Abidjan",
+      "equipement": "votre studio Ebène I comprend un coin cuisine aménagé et équipé  avec l’électroménager (réfrigérateur, micro – ondes, fer à repasser, bouilloire électrique  et d’une gazinière), la vaisselle, un téléviseur,  avec un bouquet canal, une connexion internet illimitée, un coin  nuit avec un lit, un placard ainsi que le linge de maison.",
+      "condition": "la nuitée est à 35 000 F CFA toutes charges comprises, avec possibilité de location  longue durée  au mois ou à l’année (nous consulter pour le prix).",
+      "charge_incluse": "Electricité, Eau, Lavage des draps et serviettes, Ménage 2 fois par semaine",
+      "libelle": "Studio  Ebène I",
+      "image": "images/3fb750ae14b8bb183606b1adf93fc712.jpeg",
+      "prix": 35000,
+      "typebien_id": 2,
+      "nombre_piece": 6,
+      "user_id": 1,
+      "status": 1,
+      "valid": 1,
+      "created_at": "2022-10-17T11:50:29.000000Z",
+      "updated_at": "2022-10-17T11:50:29.000000Z"
+    },
+    "images": [
+      {
+        "id": 73,
+        "src": "images/3fb750ae14b8bb183606b1adf93fc712.jpeg",
+        "bien_id": 9,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 74,
+        "src": "images/ef591f5c3c21e1f398ca9a3f62d00ed7.jpeg",
+        "bien_id": 9,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 75,
+        "src": "images/b77220789ee9f66d072075688e5be645.jpeg",
+        "bien_id": 9,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 76,
+        "src": "images/356e98b24c516a8d6479e91724dc1827.jpeg",
+        "bien_id": 9,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 77,
+        "src": "images/1cd19e188bf628c4b172e54064cc6e15.jpeg",
+        "bien_id": 9,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 78,
+        "src": "images/e8ad9141dcc229b53ec3ec540b8d47cc.jpeg",
+        "bien_id": 9,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 79,
+        "src": "images/e36f782e13ed39cf8afb26bd863fd1da.jpeg",
+        "bien_id": 9,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 80,
+        "src": "images/e1761359fba83181c349bbc454b99d59.jpeg",
+        "bien_id": 9,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 81,
+        "src": "images/5d36c443cafa2791fd99d204f0f82c9f.jpeg",
+        "bien_id": 9,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      }
+    ]
+  },
+  {
+    "bien": {
+      "id": 10,
+      "matricule": null,
+      "description": "Cet appartement vous offre une vue imprenable sur Abidjan. Agréable et facile d’accès à proximité des restaurants Kayser, Tsunami et bien d’autres centres commerciaux, et à 5 min de l’aéroport international d'Abidjan.\r\n        Profitez de ce beau studio Ebène II, soigné et décoré avec goût, vous y serez à votre aise! Calme et détente seront au rendez-vous durant votre séjour",
+      "localisation": "Marcory Zone 4",
+      "situation": "Studio meublé de standing d’une superficie de 30m2 dans un immeuble à 10 étages, sécurisé H24, avec mise à disposition  d’ascenseur, de parking, et d’espace fumeur extérieur. Le studio Ebène II est situé au 7ème étage de l’immeuble Devolluy sis en zone 4, quartier prisé à Abidjan.",
+      "equipement": "Votre studio Ebène II comprend un coin cuisine aménagé et équipé avec tout l’électroménager (réfrigérateur, micro-ondes, bouilloire électrique et d’une gazinière), la vaisselle, un téléviseur avec un bouquet canal +, une connexion internet illimitée, un coin nuit avec un lit, un placard ainsi que le linge de maison.",
+      "condition": "La nuitée est à 35.000 FCFA toutes charges comprises, avec possibilité de location longue durée au mois ou à l’année (nous consulter pour le prix).",
+      "charge_incluse": "Electricité, Eau, Lavage des draps et serviettes, Ménage 2 fois par semaine",
+      "libelle": "Studio  Ebène II",
+      "image": "images/ad1cd90275e6670fd7ac2eefc4297cfd-large.jpg",
+      "prix": 35000,
+      "typebien_id": 1,
+      "nombre_piece": 6,
+      "user_id": 1,
+      "status": 1,
+      "valid": 1,
+      "created_at": "2022-10-17T11:50:29.000000Z",
+      "updated_at": "2022-10-17T11:50:29.000000Z"
+    },
+    "images": [
+      {
+        "id": 82,
+        "src": "images/ad1cd90275e6670fd7ac2eefc4297cfd-large.jpg",
+        "bien_id": 10,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 83,
+        "src": "images/b7fe8e740a1665bcd7a1f1858f0fc8cc-large(1).jpg",
+        "bien_id": 10,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 84,
+        "src": "images/bf47f9dd548efac5ef9d4f0894a91054-large.jpg",
+        "bien_id": 10,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 85,
+        "src": "images/c3ba31c9ff7cdc4b7a5170edca12c85c-large.jpg",
+        "bien_id": 10,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 86,
+        "src": "images/ca0a0ec94139becf202530d7370ed8a1-large.jpg",
+        "bien_id": 10,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 87,
+        "src": "images/ca11c7df90bd9f334dfb7dc3041f6650-large.jpg",
+        "bien_id": 10,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 88,
+        "src": "images/e3704eac54e4ab8ea418cc46085a6940-large.jpg",
+        "bien_id": 10,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 89,
+        "src": "images/ea32c6fd41f784fa5666806e95b37391-large.jpg",
+        "bien_id": 10,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 90,
+        "src": "images/ef2536fbbf60a13cf4d962107bd30ae8-large.jpg",
+        "bien_id": 10,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      }
+    ]
+  },
+  {
+    "bien": {
+      "id": 11,
+      "matricule": null,
+      "description": "Cet appartement vous offre une vue imprenable sur Abidjan.\r\n        Agréable et facile d’accès à proximité des restaurants kayser, Tsunami et bien d’autres centres commerciaux, et à 5 min de l’aéroport international  d’Abidjan. \r\n        Profitez de ce beau studio Emeraude, soigné et  décoré avec goût, vous y serez à votre aise ! Calme et détente y seront au rendez-vous durant votre séjour !",
+      "localisation": "Marcory Zone 4",
+      "situation": "Studio meublé de standing d’une superficie de 30 m2 dans un immeuble à 10 étages, sécurisé H24, avec mise à disposition d’ascenseur, de parking, et d’espace fumeur extérieur. Le studio Emeraude  est situé au 9ème étage de l’immeuble Devolluy  sis en zone 4, quartier prisé à Abidjan.",
+      "equipement": "Votre studio Emeraude  comprend un coin cuisine aménagé et équipé  avec l’électroménager (réfrigérateur, micro – ondes, fer à repasser, bouilloire électrique  et d’une gazinière), la vaisselle, un téléviseur,  avec un bouquet canal, une connexion internet illimitée, un coin  nuit avec un lit, un placard ainsi que le linge de maison.",
+      "condition": "la nuitée est à 35 000 F CFA toutes charges comprises, avec possibilité de location  longue durée  au mois ou à l’année (nous consulter pour le prix).",
+      "charge_incluse": "Electricité, Eau, Lavage des draps et serviettes, Ménage 2 fois par semaine",
+      "libelle": "Studio Emeraude",
+      "image": "images/1b3db5114eb1ac1be00a7b4e852cefab-large.jpg",
+      "prix": 35000,
+      "typebien_id": 1,
+      "nombre_piece": 6,
+      "user_id": 1,
+      "status": 1,
+      "valid": 1,
+      "created_at": "2022-10-17T11:50:29.000000Z",
+      "updated_at": "2022-10-17T11:50:29.000000Z"
+    },
+    "images": [
+      {
+        "id": 91,
+        "src": "images/1b3db5114eb1ac1be00a7b4e852cefab-large.jpg",
+        "bien_id": 11,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 92,
+        "src": "images/4af8c8dbc4fafc19ab115b34ba804b61-large.jpg",
+        "bien_id": 11,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 93,
+        "src": "images/7I8A1736.jpg",
+        "bien_id": 11,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 94,
+        "src": "images/28a444e00edf673824d14efbb2455a8e-large.jpg",
+        "bien_id": 11,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 95,
+        "src": "images/d4fe37ffe6ce817de70b2079328e01e2-large.jpg",
+        "bien_id": 11,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 96,
+        "src": "images/d34a0e656445f06143335faa23291888-large.jpg",
+        "bien_id": 11,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 97,
+        "src": "images/da4778363ce542a4e8eb382774de604c-large.jpg",
+        "bien_id": 11,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 98,
+        "src": "images/db7a9b993ad62dcc76fdf5219255f182-large.jpg",
+        "bien_id": 11,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 99,
+        "src": "images/fc706c068a48f179b167eb90cc5c0a39-large.jpg",
+        "bien_id": 11,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      }
+    ]
+  },
+  {
+    "bien": {
+      "id": 12,
+      "matricule": null,
+      "description": "Cet appartement vous offre une vue imprenable sur Abidjan. Agréable et facile d’accès à proximité des restaurants Kayser, Tsunami et bien d’autres centres commerciaux, et à 5 min de l’aéroport international d'Abidjan.\r\n        Profitez de ce beau studio Hévéa, soigné et décoré avec goût, vous y serez à votre aise! Calme et détente seront au rendez-vous durant votre séjour !",
+      "localisation": "Marcory Zone 4",
+      "situation": "Studio meublé de standing d’une superficie de 30m2 dans un immeuble à 10 étages, sécurisé H24, avec mise à disposition  d’ascenseur, de parking, et d’espace fumeur extérieur. Le studio Hévéa est situé au 7ème étage de l’immeuble Dévoluy sis en zone 4, quartier prisé à Abidjan.",
+      "equipement": "Votre studio Hévéa comprend un coin cuisine aménagé et équipé avec tout l’électroménager (réfrigérateur, micro-ondes, bouilloire électrique et d’une gazinière), la vaisselle, un téléviseur avec un bouquet canal +, une connexion internet illimitée, un coin nuit avec un lit, un placard ainsi que le linge de maison.",
+      "condition": "La nuitée est à 35.000 FCFA toutes charges comprises, avec possibilité de location longue durée au mois ou à l’année (nous consulter pour le prix).",
+      "charge_incluse": "Electricité, Eau, Lavage des draps et serviettes, Ménage 2 fois par semaine",
+      "libelle": "Studio Hévéa",
+      "image": "images/4b99d42b4d627616ada3ec07a1604bea-large.jpg",
+      "prix": 35000,
+      "typebien_id": 1,
+      "nombre_piece": 6,
+      "user_id": 1,
+      "status": 1,
+      "valid": 1,
+      "created_at": "2022-10-17T11:50:29.000000Z",
+      "updated_at": "2022-10-17T11:50:29.000000Z"
+    },
+    "images": [
+      {
+        "id": 100,
+        "src": "images/4b99d42b4d627616ada3ec07a1604bea-large.jpg",
+        "bien_id": 12,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 101,
+        "src": "images/6f28555501eace708dc8dd02dd57c7c6-large.jpg",
+        "bien_id": 12,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 102,
+        "src": "images/7I8A4278.JPG",
+        "bien_id": 12,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 103,
+        "src": "images/7I8A4282.JPG",
+        "bien_id": 12,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 104,
+        "src": "images/7I8A4286.JPG",
+        "bien_id": 12,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 105,
+        "src": "images/7I8A4290.JPG",
+        "bien_id": 12,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 106,
+        "src": "images/7I8A4292.JPG",
+        "bien_id": 12,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 107,
+        "src": "images/7I8A4294.JPG",
+        "bien_id": 12,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 108,
+        "src": "images/7I8A4299.JPG",
+        "bien_id": 12,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      }
+    ]
+  },
+  {
+    "bien": {
+      "id": 13,
+      "matricule": null,
+      "description": "Cet appartement vous offre une vue imprenable sur Abidjan.\r\n        Agréable et facile d’accès à proximité des restaurants kayser, Tsunami et bien d’autres centres commerciaux, et à 5 min de l’aéroport international  d’Abidjan. \r\n        Profitez de ce beau studio Jade, soigné et  décoré avec goût, vous y serez à votre aise ! Calme et détente y seront au rendez-vous durant votre séjour !",
+      "localisation": "Marcory Zone 4",
+      "situation": "Studio meublé de standing d’une superficie de 30 m2 dans un immeuble à 10 étages, sécurisé H24, avec mise à disposition d’ascenseur, de parking, et d’espace fumeur extérieur. Le studio Jade  est situé au 9ème étage de l’immeuble Devolluy  sis en zone 4, quartier prisé à Abidjan.",
+      "equipement": "Votre studio Jade  comprend un coin cuisine aménagé et équipé  avec l’électroménager (réfrigérateur, micro – ondes,  fer à repasser, bouilloire électrique  et d’une gazinière), la vaisselle, un téléviseur,  avec un bouquet canal, une connexion internet illimitée, un coin  nuit avec un lit, un placard ainsi que le linge de maison.",
+      "condition": "la nuitée est à 35 000 F CFA toutes charges comprises, avec possibilité de location  longue durée  au mois ou à l’année (nous consulter pour le prix).",
+      "charge_incluse": "Electricité, Eau, Lavage des draps et serviettes, Ménage 2 fois par semaine",
+      "libelle": "Studio Jade",
+      "image": "images/2c9031051727f9fd7c5a31158a2922d2-large.jpg",
+      "prix": 35000,
+      "typebien_id": 1,
+      "nombre_piece": 6,
+      "user_id": 1,
+      "status": 1,
+      "valid": 1,
+      "created_at": "2022-10-17T11:50:29.000000Z",
+      "updated_at": "2022-10-17T11:50:29.000000Z"
+    },
+    "images": [
+      {
+        "id": 109,
+        "src": "images/2c9031051727f9fd7c5a31158a2922d2-large.jpg",
+        "bien_id": 13,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 110,
+        "src": "images/7I8A9285.jpg",
+        "bien_id": 13,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 111,
+        "src": "images/7I8A9304.jpg",
+        "bien_id": 13,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 112,
+        "src": "images/7I8A9418.jpg",
+        "bien_id": 13,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 113,
+        "src": "images/7I8A9421.jpg",
+        "bien_id": 13,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 114,
+        "src": "images/7I8A9477.jpg",
+        "bien_id": 13,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 115,
+        "src": "images/7I8A9483.jpg",
+        "bien_id": 13,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 116,
+        "src": "images/7I8A9559.jpg",
+        "bien_id": 13,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 117,
+        "src": "images/75bcce2d722e76d02bd78dc83aa67c3a-large.jpg",
+        "bien_id": 13,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      }
+    ]
+  },
+  {
+    "bien": {
+      "id": 14,
+      "matricule": null,
+      "description": "Cet appartement vous offre une vue imprenable sur Abidjan. Agréable et facile d’accès à proximité des restaurants Kayser, Tsunami et bien d’autres centres commerciaux, et à 5 min de l’aéroport international d'Abidjan.\r\n        Profitez de ce beau studio La 5, soigné et décoré avec goût, vous y serez à votre aise! Calme et détente seront au rendez-vous durant votre séjour !",
+      "localisation": "Marcory Zone 4",
+      "situation": "Studio meublé de standing d’une superficie de 30m2 dans un immeuble à 10 étages, sécurisé H24, avec mise à disposition  d’ascenseur, de parking, et d’espace fumeur extérieur. Le studio La 5 est situé au 8ème étage de l’immeuble Devolluy sis en zone 4, quartier prisé à Abidjan.",
+      "equipement": "Votre studio La 5 comprend un coin cuisine aménagé et équipé avec tout l’électroménager (réfrigérateur, micro-ondes, bouilloire électrique et d’une paque de cuisson électrique), la vaisselle, un téléviseur avec une IPTV, une connexion internet illimitée, un coin nuit avec un lit, un petit dressing ainsi que le linge de maison",
+      "condition": "La nuitée est à 35.000 FCFA toutes charges comprises, avec possibilité de location longue durée au mois ou à l’année (nous consulter pour le prix).",
+      "charge_incluse": "Electricité, Eau, Lavage des draps et serviettes, Ménage 2 fois par semaine",
+      "libelle": "Studio LA 5",
+      "image": "images/photo_5785112152628118135_y.jpg",
+      "prix": 35000,
+      "typebien_id": 1,
+      "nombre_piece": 6,
+      "user_id": 1,
+      "status": 1,
+      "valid": 1,
+      "created_at": "2022-10-17T11:50:29.000000Z",
+      "updated_at": "2022-10-17T11:50:29.000000Z"
+    },
+    "images": [
+      {
+        "id": 118,
+        "src": "images/photo_5785112152628118135_y.jpg",
+        "bien_id": 14,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 119,
+        "src": "images/photo_5785112152628118136_y (1).jpg",
+        "bien_id": 14,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 120,
+        "src": "images/photo_5785112152628118136_y.jpg",
+        "bien_id": 14,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 121,
+        "src": "images/photo_5785112152628118138_y.jpg",
+        "bien_id": 14,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 122,
+        "src": "images/photo_5785112152628118139_y.jpg",
+        "bien_id": 14,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 123,
+        "src": "images/photo_5785112152628118140_y.jpg",
+        "bien_id": 14,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 124,
+        "src": "images/photo_5785112152628118141_y.jpg",
+        "bien_id": 14,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 125,
+        "src": "images/photo_5785112152628118143_y.jpg",
+        "bien_id": 14,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 126,
+        "src": "images/photo_5785112152628118144_y.jpg",
+        "bien_id": 14,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      }
+    ]
+  },
+  {
+    "bien": {
+      "id": 15,
+      "matricule": null,
+      "description": "Cet appartement vous offre une vue imprenable sur Abidjan. Agréable et facile d’accès à proximité des restaurants Kayser, Tsunami et bien d’autres centres commerciaux, et à 5 min de l’aéroport international d'Abidjan.\r\n        Profitez de ce beau studio La 7, soigné et décoré avec goût, vous y serez à votre aise! Calme et détente seront au rendez-vous durant votre séjour !",
+      "localisation": "Marcory Zone 4",
+      "situation": "Studio meublé de standing d’une superficie de 30m2 dans un immeuble à 10 étages, sécurisé H24, avec mise à disposition  d’ascenseur, de parking, et d’espace fumeur extérieur. Le studio la 7 est situé au 8ème étage de l’immeuble Devolluy sis en zone 4, quartier prisé à Abidjan.",
+      "equipement": " Votre studio La 7 comprend un coin cuisine aménagé et équipé avec tout l’électroménager (réfrigérateur, micro-ondes, bouilloire électrique et d’une gazinière), la vaisselle, un téléviseur avec un bouquet canal +, une connexion internet illimitée, un coin nuit avec un lit, un petit dressing ainsi que le linge de maison.",
+      "condition": "La nuitée est à 35.000 FCFA toutes charges comprises, avec possibilité de location longue durée au mois ou à l’année (nous consulter pour le prix).",
+      "charge_incluse": "Electricité, Eau, Lavage des draps et serviettes, Ménage 2 fois par semaine",
+      "libelle": "Studio LA 7",
+      "image": "images/photo_5776299274873715652_y (1).jpg",
+      "prix": 35000,
+      "typebien_id": 1,
+      "nombre_piece": 6,
+      "user_id": 1,
+      "status": 1,
+      "valid": 1,
+      "created_at": "2022-10-17T11:50:29.000000Z",
+      "updated_at": "2022-10-17T11:50:29.000000Z"
+    },
+    "images": [
+      {
+        "id": 127,
+        "src": "images/photo_5776299274873715652_y (1).jpg",
+        "bien_id": 15,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 128,
+        "src": "images/photo_5776299274873715657_y.jpg",
+        "bien_id": 15,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 129,
+        "src": "images/photo_5776299274873715669_y.jpg",
+        "bien_id": 15,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 130,
+        "src": "images/photo_STUDIO LA 7_0.jpg",
+        "bien_id": 15,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 131,
+        "src": "images/photo_STUDIO LA 7_1.jpg",
+        "bien_id": 15,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 132,
+        "src": "images/photo_STUDIO LA 7_2.jpg",
+        "bien_id": 15,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 133,
+        "src": "images/photo_STUDIO LA 7_3.jpg",
+        "bien_id": 15,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 134,
+        "src": "images/photo_STUDIO LA 7_5.jpg",
+        "bien_id": 15,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 135,
+        "src": "images/photo_STUDIO LA 7_6.jpg",
+        "bien_id": 15,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      }
+    ]
+  },
+  {
+    "bien": {
+      "id": 16,
+      "matricule": null,
+      "description": "Cet appartement vous offre une vue imprenable sur Abidjan.\r\n        Agréable et facile d’accès à proximité des restaurants Oregano, Petit café, Dabali Xpress, la pharmacie perusia et bien d’autres centres commerciaux, et à 5 min de l’aéroport international  d’Abidjan. \r\n        Profitez de ce beau studio Madiba, soigné et  décoré avec goût, vous y serez à votre aise ! Calme et détente y seront au rendez-vous durant votre séjour !",
+      "localisation": "Marcory Zone 4",
+      "situation": "Studio meublé de standing d’une superficie de 45 m2 dans un immeuble à 6 étages, sécurisé H24, avec mise à disposition d’ascenseur, de parking, et d’espace fumeur extérieur. Le studio Madiba  est situé au 1er  de la Maison Gourmand, près d’Amore, en face du restaurant Oregano sis en zone 4, quartier prisé à Abidjan.",
+      "equipement": "votre studio Madiba  comprend un coin cuisine aménagé et équipé  avec l’électroménager (réfrigérateur, micro – ondes, fer à repasser, bouilloire électrique  et d’une gazinière), la vaisselle, un téléviseur,  avec un bouquet canal, une connexion internet illimitée, un coin  nuit avec un lit, un placard ainsi que le linge de maison. ",
+      "condition": "la nuitée est à 35 000 F CFA toutes charges comprises, avec possibilité de location  longue durée  au mois ou à l’année (nous consulter pour le prix).",
+      "charge_incluse": "Electricité, Eau, Lavage des draps et serviettes, Ménage 2 fois par semaine",
+      "libelle": "Studio Madiba",
+      "image": "images/7I8A3557.JPG",
+      "prix": 35000,
+      "typebien_id": 1,
+      "nombre_piece": 6,
+      "user_id": 1,
+      "status": 1,
+      "valid": 1,
+      "created_at": "2022-10-17T11:50:29.000000Z",
+      "updated_at": "2022-10-17T11:50:29.000000Z"
+    },
+    "images": [
+      {
+        "id": 136,
+        "src": "images/7I8A3557.JPG",
+        "bien_id": 16,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 137,
+        "src": "images/7I8A3592.JPG",
+        "bien_id": 16,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 138,
+        "src": "images/7I8A3603.JPG",
+        "bien_id": 16,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 139,
+        "src": "images/7I8A3604.JPG",
+        "bien_id": 16,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 140,
+        "src": "images/7I8A3605.JPG",
+        "bien_id": 16,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 141,
+        "src": "images/7I8A3606.JPG",
+        "bien_id": 16,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 142,
+        "src": "images/7I8A3615.JPG",
+        "bien_id": 16,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 143,
+        "src": "images/7I8A3617.JPG",
+        "bien_id": 16,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 144,
+        "src": "images/7I8A3765.JPG",
+        "bien_id": 16,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      }
+    ]
+  },
+  {
+    "bien": {
+      "id": 17,
+      "matricule": null,
+      "description": "Cet appartement vous offre une vue imprenable sur Abidjan. Agréable et facile d’accès à proximité des restaurants Kayser, Tsunami et bien d’autres centres commerciaux, et à 5 min de l’aéroport international d'Abidjan.\r\n        Profitez de ce beau studio Safari, soigné et décoré avec goût, vous y serez à votre aise! Calme et détente seront au rendez-vous durant votre séjour !",
+      "localisation": "Marcory Zone 4",
+      "situation": "Studio meublé de standing d’une superficie de 30m2 dans un immeuble à 10 étages, sécurisé H24, avec mise à disposition  d’ascenseur, de parking, et d’espace fumeur extérieur. Le studio Safari est situé au 7ème étage de l’immeuble Devolluy sis en zone 4, quartier prisé à Abidjan.",
+      "equipement": "Votre studio Safari comprend un coin cuisine aménagé et équipé avec tout l’électroménager (réfrigérateur, micro-ondes, et d’une gazinière), la vaisselle, un téléviseur avec un bouquet canal +, une connexion internet illimitée, un coin nuit avec un lit, un placard ainsi que la vaisselle et le linge de maison.",
+      "condition": "la nuitée est à 35 000 F CFA toutes charges comprises, avec possibilité de location  longue durée  au mois ou à l’année (nous consulter pour le prix).",
+      "charge_incluse": "Electricité, Eau, Lavage des draps et serviettes, Ménage 2 fois par semaine",
+      "libelle": "Studio Safari",
+      "image": "images/7I8A6696.jpg",
+      "prix": 35000,
+      "typebien_id": 1,
+      "nombre_piece": 6,
+      "user_id": 1,
+      "status": 1,
+      "valid": 1,
+      "created_at": "2022-10-17T11:50:29.000000Z",
+      "updated_at": "2022-10-17T11:50:29.000000Z"
+    },
+    "images": [
+      {
+        "id": 145,
+        "src": "images/7I8A6696.jpg",
+        "bien_id": 17,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 146,
+        "src": "images/7I8A6697.JPG",
+        "bien_id": 17,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 147,
+        "src": "images/7I8A6702.JPG",
+        "bien_id": 17,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 148,
+        "src": "images/7I8A6703.JPG",
+        "bien_id": 17,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 149,
+        "src": "images/7I8A6722.jpg",
+        "bien_id": 17,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 150,
+        "src": "images/7I8A6723.jpg",
+        "bien_id": 17,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 151,
+        "src": "images/7I8A6744.JPG",
+        "bien_id": 17,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 152,
+        "src": "images/7I8A6753.jpg",
+        "bien_id": 17,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 153,
+        "src": "images/7I8A6775.jpg",
+        "bien_id": 17,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      }
+    ]
+  },
+  {
+    "bien": {
+      "id": 18,
+      "matricule": null,
+      "description": "Cet appartement vous offre une vue imprenable sur Abidjan.\r\n            Agréable et facile d’accès à proximité des restaurants kayser, Tsunami et bien d’autres centres commerciaux, et à 5 min de l’aéroport international  d’Abidjan. \r\n            Profitez de ce beau studio Emeraude, soigné et  décoré avec goût, vous y serez à votre aise ! Calme et détente y seront au rendez-vous durant votre séjour !",
+      "localisation": "Marcory Zone 4",
+      "situation": "Studio meublé de standing d’une superficie de 40 m2 dans un immeuble à 10 étages, sécurisé H24, avec mise à disposition d’ascenseur, de parking, et d’espace fumeur extérieur. Le studio Saphir est situé au 8ème étage de l’immeuble Devolluy  sis en zone 4, quartier prisé à Abidjan.",
+      "equipement": "votre studio Saphir  comprend un coin cuisine aménagé et équipé  avec l’électroménager (réfrigérateur, micro – ondes, fer à repasser, bouilloire électrique  et d’une gazinière), la vaisselle, un téléviseur,  avec un bouquet canal, une connexion internet illimitée, un coin  nuit avec un lit, un placard ainsi que le linge de maison.",
+      "condition": "la nuitée est à 35 000 F CFA toutes charges comprises, avec possibilité de location  longue durée  au mois ou à l’année (nous consulter pour le prix).",
+      "charge_incluse": "Electricité, Eau, Lavage des draps et serviettes, Ménage 2 fois par semaine",
+      "libelle": "Studio Saphir",
+      "image": "images/7I8A6696.jpg",
+      "prix": 35000,
+      "typebien_id": 1,
+      "nombre_piece": 6,
+      "user_id": 1,
+      "status": 1,
+      "valid": 1,
+      "created_at": "2022-10-17T11:50:29.000000Z",
+      "updated_at": "2022-10-17T11:50:29.000000Z"
+    },
+    "images": [
+      {
+        "id": 154,
+        "src": "images/7I8A4150.JPG",
+        "bien_id": 18,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 155,
+        "src": "images/7I8A4122.JPG",
+        "bien_id": 18,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 156,
+        "src": "images/7I8A4100.JPG",
+        "bien_id": 18,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 157,
+        "src": "images/7I8A4055.JPG",
+        "bien_id": 18,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 158,
+        "src": "images/7I8A4005.JPG",
+        "bien_id": 18,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 159,
+        "src": "images/7I8A4047.JPG",
+        "bien_id": 18,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 160,
+        "src": "images/7I8A4040.JPG",
+        "bien_id": 18,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 161,
+        "src": "images/7I8A4004.JPG",
+        "bien_id": 18,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      },
+      {
+        "id": 162,
+        "src": "images/7I8A3997.JPG",
+        "bien_id": 18,
+        "status": 1,
+        "valid": 1,
+        "created_at": "2022-10-17T11:50:30.000000Z",
+        "updated_at": "2022-10-17T11:50:30.000000Z"
+      }
+    ]
+  }
+]

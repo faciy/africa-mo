@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "libelle": "Studio",
+      "description": null,
+      "image": "assets/images/studio.png",
+      "color": "#0a75ad"
+    },
+    {
+      "id": 2,
+      "libelle": "Appartement",
+      "description": null,
+      "image": "assets/images/appartement.png",
+      "color": "#ff007f"
+    },{
+      "id": 3,
+      "libelle": "Villa",
+      "description": null,
+      "image": "assets/images/villa.png",
+      "color": "#ff7f24"
+    },{
+      "id": 4,
+      "libelle": "Residence",
+      "description": null,
+      "image": "assets/images/residence.png",
+      "color": "#06a448"
+    },{
+      "id": 5,
+      "libelle": "Duplex",
+      "description": null,
+      "image": "assets/images/duplex.png",
+      "color": "#f8c113"
+    },{
+      "id": 6,
+      "libelle": "Immeuble",
+      "description": null,
+      "image": "assets/images/immeuble.png",
+      "color": "#c71818"
+    },{
+      "id": 7,
+      "libelle": "Magasin",
+      "description": null,
+      "image": "assets/images/magasin.png",
+      "color": "#b304b8"
+    },{
+      "id": 8,
+      "libelle": "Espace vert",
+      "description": null,
+      "image": "assets/images/terrain.png",
+      "color": "#00ced3"
+    },{
+      "id": 9,
+      "libelle": "Terrain",
+      "description": null,
+      "image": "assets/images/terrain.png",
+      "color": "#b36a77"
+    }
+  ]
+}
