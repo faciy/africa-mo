@@ -6,7 +6,6 @@ import 'package:innovimmobilier/commons/animations/delayed_animation.dart';
 import 'package:innovimmobilier/commons/custom_btn_loader.dart';
 import 'package:innovimmobilier/commons/show_custom_snack_bar.dart';
 import 'package:innovimmobilier/commons/widgets/app_big_text.dart';
-import 'package:innovimmobilier/commons/widgets/app_small_text.dart';
 import 'package:innovimmobilier/commons/widgets/buttons/app_buttons_widget.dart';
 import 'package:innovimmobilier/commons/widgets/buttons/app_link_widget.dart';
 import 'package:innovimmobilier/commons/widgets/inputs/app_text_field.dart';
@@ -251,10 +250,6 @@ class _RegisterStep1PageState extends State<RegisterStep1Page> {
                       child: Row(
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: [
-                          AppSmallText(
-                            text: "Déjà un compte? Connectez vous par",
-                            size: AppDimensions.font14,
-                          ),
                           Transform.translate(
                             offset: const Offset(-5, 0),
                             child: AppLinkWidget(
@@ -263,7 +258,7 @@ class _RegisterStep1PageState extends State<RegisterStep1Page> {
                                       isHome: true,
                                     ));
                               },
-                              text: "ici",
+                              text: "Déjà un compte? Connectez vous",
                               size: AppDimensions.font14,
                             ),
                           ),
